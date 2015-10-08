@@ -1,0 +1,2 @@
+export CDNAME="KaiHaInstaller"
+export DEBVERSION="0.1.0"
